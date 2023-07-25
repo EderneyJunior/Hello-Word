@@ -1,2 +1,2 @@
 # Hello-Word
-Exercicio da cubas academy
+Exercicio da cubos academy
